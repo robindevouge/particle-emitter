@@ -1,14 +1,14 @@
 # @robindevouge/particle-emitter
 
-![alt text](https://img.shields.io/badge/version-1.0.0-informational)
-
 ## About
 
-Framework agnostic particle emitter
+Framework agnostic particle emitter.
 
 Maintainer: Robin Devouge (hello@robindevouge.be)
 
 Repository: https://github.com/robindevouge/particle-emitter.git
+
+_Please do not request for additional features, this package was developed to suit my needs during projects (that is why this package is scoped instead of public). If you wish to customize it you are free to do so by respecting the attached license._
 
 ## Install
 
