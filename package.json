@@ -1,0 +1,21 @@
+{
+	"name": "@robindevouge/particle-emitter",
+	"version": "1.0.0",
+	"description": "Framework agnostic particle emitter",
+	"license": "MIT",
+	"repository": "https://github.com/robindevouge/particle-emitter.git",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
+	"scripts": {
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"typescript": "^5.8.2"
+	},
+	"dependencies": {
+		"gsap": "^3.12.7"
+	}
+}
